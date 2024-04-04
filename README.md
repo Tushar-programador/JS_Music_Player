@@ -37,7 +37,7 @@ To use our Music Player, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/Tushar-programador/JS_Music_Player.git>
 Open the project directory in your preferred code editor.
 
 Ensure you have an internet connection to load external resources (e.g., Font Awesome icons).
