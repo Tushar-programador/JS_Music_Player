@@ -1,6 +1,16 @@
-# Music Player Readme
+# Music Player 
 
 Welcome to our Music Player project! This readme file provides an overview of the project, its features, and instructions for getting started.
+## Table of Contents
+
+- [Overview](#Overview)
+- [Features](#features)
+- [Technologies Used](#Technologies-Used)
+- [Getting Started](#getting-started)
+- [Project Structure](#Project-Structure)
+- [Contributing](#contributing)
+- [License](#license)
+
 
 ## Overview
 
@@ -36,14 +46,16 @@ Open the index.html file in a web browser to launch the Music Player.
 
 Start playing your favorite tunes and enjoy the experience!
 
-Project Structure
+# Project Structure
 index.html: The main HTML file containing the structure of the Music Player interface.
 style.css: CSS file for styling the Music Player interface.
 script.js: JavaScript file containing the functionality for controlling the Music Player.
-Credits
-Font Awesome (https://fontawesome.com/): Used for icons in the Music Player interface.
-Contributing
+
+# Contributing
 Contributions to the Music Player project are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
 
-License
+# License
 This project is licensed under the MIT License. Feel free to use and modify the code for your own purposes.
+
+# Credits
+Font Awesome (https://fontawesome.com/): Used for icons in the Music Player interface.
